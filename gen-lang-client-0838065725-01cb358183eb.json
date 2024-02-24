@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gen-lang-client-0838065725",
+  "private_key_id": "01cb358183eb3e707d6413889fc9f54539bcb164",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC02+jlavZF+esS\ndcHMxEkd1D5Ptgtfc/P5b4gBa51/zqLqer52JAUxYzXeNCZPIcMTMYmHBAlRmrMs\naqTwnkRLgRUvme++JsZwS/bg3bYOiMQYb1GH34UJ2lWbRyhw86VcfGiC9G1F3fDg\n5Y0BVVuEfgS4Zv+G1Eb2bW+XLlfPzNEs6akJIieWL4dOEpN3LdbLdzYF7t+TvQr4\nFk7ISQBg78+yNsTGnpFTSd7rAV0ib5Z7MNjUH59eKAe/L4GUe5D80LurU1NyQi/4\nWrUX6qU1W0TnlYaYETsnncMZRk5pYNNH0vlzZZReFBJFVVpAK4xv+N0+dXtCYjVs\nxBmWQf8BAgMBAAECggEACXfl1nTmFb3Cv8Godrbj+QrOhE/Mgp/IawuavDBNG47O\n2qW4aOjz2KUQAeULCGOFGfEi+Q2OC1alALNIlUxD2QwV9tsBQRw4kVJ4x0b0LAie\n84SIaSubhGuIxctQ47DtvEzLD+gJ/HllDfEWk7ZLR0Ftr9W8lOtyF56dE/YaJMfG\nrizu2tuE5FfQ/earm9ITxZIsnImePn3DJlXX21GeNYtF4LP7/gCSGq8yCLnNUad5\n5T8TVcFFOU3oj1MidhGyBO+lUbYBteq5OueP6RxG8vKxFsri61azKqerwsdqOxUU\nX9hgS7TS+MoG7X5Z6+NQ2zINxugt4ejZ05/7uFWvzQKBgQDkGRkVC4QcXQI1BoIP\nV35XRjZimdTP3Yt+87sKA9horWO2tdzcswd0dClf70sZYx507LMYU5vy9+BpfzRJ\ng1w4X6H86dk+yy7eH1ZOZ3kIJzByZQakyRm4pddEStgqVjcW2nNPSNcVKlBIV9sr\nl2srHIW05JYT4Wp3n5giJkuSCwKBgQDK+4T99TuSgivN3HG8uBIEzppGMyeCFiV8\nfXSMYm+7gP9rSVzp8WAKMvhzDQjb2dHyuEbxKbF85vqNXqufPhpXJjLUcRfumvSk\neRROwzuDmGD9OkJZi/32p3esEDn8MagsITYrPfKA32BsnxypAgvokAr/sICo9Sux\nOxeSPL9GowKBgH3woZmuDxZ+AA749ey0mUxktviACTFwGGpS9m2UK/O38HtcNIMi\n0jXpQUL345Yz1Qgn/Masu0lOtXhqRJtmTQ/PNahoEYwLMWhxEv0dQoVO5f/zadSo\nOGxsHMxXKr1NdwNGQC6BgEfuYf9fiuKpqwFVsTlskLSPXHKKCryoOkd7AoGAZ9mL\nT0s6cVi8BJT2c/FQ9rilYakmW33tK+YbzP9H3wy+oStlqCNgWZd+WY6fq6ujqKTz\nVstYDWk3Y0C+WbiyTUgz1VEPR3psFAIGi82DE27QoH5AGARxqNJBffzHTeox+nH7\nfuAwxBKFCM3XIfj0EsYvemXZTZgyBHkRNDZ0PjUCgYATHisTX2TRE4mLEJYGA47H\n0aNkpD8dd9Nke7d42+n/tyzwiswIfE428zlb38Sz33mXYEIvsC6Ya+duJxHSHlDD\nOFgGkORcFnnfotWagGlpmHl/Y8dgsq+Uw+5ZFsgdytqGV6KCHRYx73td+wj+r80i\nLgGOEv2LxTkQLCv+PxnFTA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ananyakaligal-813-gmail-com@gen-lang-client-0838065725.iam.gserviceaccount.com",
+  "client_id": "113720885623737261948",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ananyakaligal-813-gmail-com%40gen-lang-client-0838065725.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
